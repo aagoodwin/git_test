@@ -1,0 +1,1 @@
+This is Addison's first git project! I am trying to learn :}
